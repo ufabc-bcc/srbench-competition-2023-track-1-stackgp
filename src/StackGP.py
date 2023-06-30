@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+#Author: Nathan Haut 6-30-2023
 
 import random
 import matplotlib.pyplot as plt 
